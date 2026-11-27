@@ -7,3 +7,4 @@ git pull                                            # Слить изменен�
 # Команды веток
 git branch -m old-branch new-branch                 # Создать ветку
 git switch                                          # Переключить ветку
+git status                                          # Проверка состояние текущей ветки репозитория
