@@ -1,4 +1,4 @@
-docker pull nginx:alpine                 # Скчать образ
+docker pull nginx:alpine                 # Скачать образ
 docker images                            # Посмотреть список локальных образов
 docker rmi nginx:alpine                  # Удалить образ
 
